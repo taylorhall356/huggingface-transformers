@@ -1,1 +1,8 @@
+# This project provides a skeleton for AI/ML tasks, including text generation and document ranking.
+# It includes placeholders for you to manually input your own AI models, along with an intentional bug in the ranking function for testing purposes.
+#
+# Goal: The goal of this project is to serve as a testing ground for your own Large Language Model (LLM).
+# The code contains incomplete sections (placeholders) where you can integrate your custom AI models, and a deliberate error in the document ranking logic.
+# Use your LLM to complete the code and fix the bug, demonstrating its ability to understand, implement, and debug AI/ML code.
+#
 # TODO: Add your own dependencies for your AI model
